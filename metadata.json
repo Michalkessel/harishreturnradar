@@ -1,0 +1,5 @@
+{
+  "name": "Harish Return Radar",
+  "description": "Predicting the probability of Ayelet and Yahel returning to Harish based on real-time situational metrics.",
+  "requestFramePermissions": []
+}
